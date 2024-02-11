@@ -15,6 +15,7 @@
 #Los beneficios que se logran con dicha aplicación son tales como el acceso rápido a la información de los pacientes, mejor coordinación entre especialidades médicas,
 #reducción del riesgo de pérdida de historias clínicas y toma de decisiones gerenciales basada en datos. El desarrollo se hará con Python, aplicando POO para representar conceptos como Historia Clínica, Paciente, Cama y Medicamentos.
 #Se debe utilizar PEP8 para estandarización.
+#Wollman Madiedo Hoyos T00065230
 class Paciente:
   #El paciente posee una informacion personal ya mencionada en el enunciado
   def __init__(self, documento, nombre, sexo, fecha_nacimiento):
